@@ -31,3 +31,7 @@ body {
     padding: 10px;
     justify-content: space-around;
 }
+.flex-container div{
+    border-left: 20px solid #93d214;
+    height: 10px;
+}
